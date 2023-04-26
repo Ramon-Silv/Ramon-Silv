@@ -13,7 +13,6 @@ Hello, my name is Ramon and I´m 18. I have skills with:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"/>
   </div>
-  <br>
 
 ## Contacts:
 
@@ -25,7 +24,7 @@ Hello, my name is Ramon and I´m 18. I have skills with:
 
 ## My Stats:
 
-<div>
+<div style="display: flex; flex-direction: column; align-items: center">
 <a href="https://github.com/Ramon-Silv">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Silv&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramon-Silv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
