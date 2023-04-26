@@ -24,7 +24,7 @@ Hello, my name is Ramon and I´m 18. I have skills with:
 
 ## My Stats:
 
-<div style="display: flex; flex-direction: column; align-items: center">
+<div style="display: flex; flex-direction: column; align-items: center; width=50%">
 <a href="https://github.com/Ramon-Silv">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Silv&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramon-Silv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
